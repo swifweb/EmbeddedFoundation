@@ -1,0 +1,4 @@
+module _CFoundation {
+    header "_CFoundation.h"
+    export *
+}
